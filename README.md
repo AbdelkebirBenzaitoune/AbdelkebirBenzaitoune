@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1F6FEB&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Abdel+kebir+Benzaitoune" alt="Typing SVG" />
 </div>
-<h1 align="center"> 👋🏻 MOHAMED AMINE AABID</h1>
+<h1 align="center"> 👋🏻 ABDEL KEBIR BENZAITOUNE</h1>
 
 <h3 align="center"> <b>Junior Data Scientist</b> • Rabat, Morocco</h3>
 
