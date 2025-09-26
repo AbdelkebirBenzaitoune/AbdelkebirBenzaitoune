@@ -1,8 +1,5 @@
 ##
 <!-- Centered hero header -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" style="border-radius:50%" alt="Profile photo"/>
-</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1F6FEB&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Abdel+kebir+Benzaitoune" alt="Typing SVG" />
