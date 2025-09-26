@@ -9,7 +9,7 @@
 </div>
 <h1 align="center"> 👋🏻 MOHAMED AMINE AABID</h1>
 
-<h3 align="center"> <b>M1 Data Science & Engineering</b> • <b>Junior Data Scientist</b> • Rabat, Morocco</h3>
+<h3 align="center"> <b>Junior Data Scientist</b> • Rabat, Morocco</h3>
 
 <p align="center">
   <a href="mailto:beabdo14@gmail.com"><img src="https://img.shields.io/badge/Email-beabdo14%40gmail.com-blue?logo=gmail" /></a>
