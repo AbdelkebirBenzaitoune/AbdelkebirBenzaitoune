@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1F6FEB&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Mohamed+Amine+Aabid" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1F6FEB&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Abdel+kebir+Benzaitoune" alt="Typing SVG" />
 </div>
 <p align="center">
   <b>M1 Data Science & Engineering</b> • <b>Junior Data Scientist</b> • Rabat, Morocco
