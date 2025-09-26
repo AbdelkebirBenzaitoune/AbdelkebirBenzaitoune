@@ -1,4 +1,4 @@
-## Hi there 👋
+##
 <!-- Centered hero header -->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" style="border-radius:50%" alt="Profile photo"/>
@@ -7,9 +7,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1F6FEB&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Abdel+kebir+Benzaitoune" alt="Typing SVG" />
 </div>
-<p align="center">
-  <b>M1 Data Science & Engineering</b> • <b>Junior Data Scientist</b> • Rabat, Morocco
-</p>
+<h1 align="center"> 👋🏻 MOHAMED AMINE AABID</h1>
+
+<h3 align="center"> <b>M1 Data Science & Engineering</b> • <b>Junior Data Scientist</b> • Rabat, Morocco</h3>
 
 <p align="center">
   <a href="mailto:beabdo14@gmail.com"><img src="https://img.shields.io/badge/Email-beabdo14%40gmail.com-blue?logo=gmail" /></a>
