@@ -4,7 +4,9 @@
   <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" style="border-radius:50%" alt="Profile photo"/>
 </p>
 
-<h1 align="center">Hi, 👋 I'm <span style="color:#58a6ff">ABDEL KEBIR BENZAITOUNE</span></h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1F6FEB&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Mohamed+Amine+Aabid" alt="Typing SVG" />
+</div>
 <p align="center">
   <b>M1 Data Science & Engineering</b> • <b>Junior Data Scientist</b> • Rabat, Morocco
 </p>
